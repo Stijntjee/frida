@@ -1,0 +1,36 @@
+body {
+    background-color: #FFFFDE;
+    color: #5A0000;
+    font-family: sans-serif;
+}
+h1 {
+    background-color: green;
+}
+
+nav ul {
+    background-color: red;
+    padding: 0.4em 0;
+}
+
+nav li {
+    display: inline;
+}
+
+nav li a {
+    color: white;
+    font-weight: bold;
+    padding-left: 0.5em;
+    text-decoration: none;
+    vertical-align: middle;
+}
+
+nav li a:hover {
+    color: #F7FFCC;
+}
+
+.naastMekaar {
+    padding-left: 0;
+}
+.naastMekaar li {
+    display:inline;
+}
